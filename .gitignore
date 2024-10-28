@@ -8,3 +8,16 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+# Symfony
+/var/
+/vendor/
+/node_modules/
+/public/bundles/
+/public/uploads/
+
+# IDE
+.idea/
+/*.sublime-project
+/*.sublime-workspace
+*.swp
